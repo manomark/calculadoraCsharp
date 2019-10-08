@@ -100,7 +100,7 @@ namespace ConsoleApp2
 
                         break;
 
-
+                        Console.Write("hello world :)");
                 }
             }
             Console.ReadKey();
